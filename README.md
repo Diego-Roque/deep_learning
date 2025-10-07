@@ -18,7 +18,7 @@ Este repositorio pertenece al **Equipo 4** y contiene el trabajo realizado duran
 ---
 
 ## Estructura del repositorio
-
+```bash
 deep-learning-equipo1/
 ├── Semana-1/
 └── README.md # Documentación principal del repositorio
